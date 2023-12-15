@@ -1,0 +1,12 @@
+#wropper{
+    width: 700px;
+    margin: auto;
+    font-size: 24px;
+    background-color: #FCFAFE;
+    box-shadow: 0px 10px 20px 10px #B798E080;
+    padding: 20px 30px;
+    width: 70%;
+    }
+    h1 {
+        text-align: center;
+    }
